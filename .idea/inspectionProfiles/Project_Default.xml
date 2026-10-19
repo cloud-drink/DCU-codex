@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="openai" />
+          <option value="litellm" />
+          <option value="vllm" />
+          <option value="gritlm" />
+          <option value="torch" />
+          <option value="transformers" />
+          <option value="networkx" />
+          <option value="pydantic" />
+          <option value="python_igraph" />
+          <option value="tenacity" />
+          <option value="tiktoken" />
+          <option value="nest_asyncio" />
+          <option value="numpy" />
+          <option value="scipy" />
+          <option value="tqdm" />
+          <option value="einops" />
+          <option value="boto3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

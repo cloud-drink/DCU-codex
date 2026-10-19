@@ -1,0 +1,90 @@
+{
+  "scope": "new LoRA training and single-episode inference; formal evaluation deferred",
+  "contains_environment_or_weights": false,
+  "files": {
+    "IMAGE_PACKAGING_GUIDE.md": {
+      "bytes": 11191,
+      "sha256": "0cb1a060a8000e6cb60ca84a054ef1b81d90c43e5dfd0e37e8eb2846ded24051"
+    },
+    "PDF_ALIGNMENT.md": {
+      "bytes": 3607,
+      "sha256": "bcaddd07bcb543811516d3ab265554397cda8af3655a70e55e9063d94d448cce"
+    },
+    "README.md": {
+      "bytes": 2888,
+      "sha256": "433b39f01992aefa1db447c2e9635b6038987d0d5c781299571bad15d1e19761"
+    },
+    "RECORDING_GUIDE.md": {
+      "bytes": 9687,
+      "sha256": "35cfc0b32295f2c584dfe4c856d720b03bb01fd78c610d0aa7fe22e4e43695f0"
+    },
+    "TRAINING_INFERENCE_GUIDE.md": {
+      "bytes": 7790,
+      "sha256": "5c70b53903835f29eb87e6386e4b44ae1413f2fea1adaefea2d66cbc9152c4c7"
+    },
+    "assets_manifest.json": {
+      "bytes": 116353,
+      "sha256": "da9d32fb827a665db8dde5ebe6a0f8dce94c392bb9bc6cd5927b633e15529879"
+    },
+    "check_env.py": {
+      "bytes": 1068,
+      "sha256": "7881064c4c39d696a2f83f629b0556ab479040e55c2303b5db707148a8b4585c"
+    },
+    "download_assets.py": {
+      "bytes": 3741,
+      "sha256": "8abcc0e4a4d7d11e8eec471a4a5dd137e0ab2497e06a2d049c96b022a1c89b53"
+    },
+    "env.sh": {
+      "bytes": 1942,
+      "sha256": "62ba9d713066e67ff1fd23ee07ddbf64d300ab9a4700c775f4969d577adcd387"
+    },
+    "eval_smoke.sh": {
+      "bytes": 1289,
+      "sha256": "a39bb7dca0e170a6e87534c1ab877978de192725510acbe7c77970f07b19fbf8"
+    },
+    "export_image_context.py": {
+      "bytes": 13105,
+      "sha256": "9cdb611b37056666d844366d4ee5c1ff1c21e3cf0738e72f9f8796e2e0c354f8"
+    },
+    "make_requirements.py": {
+      "bytes": 1559,
+      "sha256": "fa52d4694e332f5c661ad3c78ab8125036380e3b3520091306d5588487043269"
+    },
+    "prepare_data.py": {
+      "bytes": 4833,
+      "sha256": "f56a5b1497565355d2cba5110d8db72834b2b0df239c7197f16de877d1c3eb09"
+    },
+    "prepare_sim.py": {
+      "bytes": 6801,
+      "sha256": "c32c96198585be4e9cd5fe45e96b2905d1b4bc7c4d1aba7bc932a5dc951a7131"
+    },
+    "prepare_training_subset.py": {
+      "bytes": 1018,
+      "sha256": "79bf6c3e1e4c8622184be3d08b647aa4e324b6521e1f2e00db96c87e8bc13516"
+    },
+    "proxy_shell.py": {
+      "bytes": 1017,
+      "sha256": "14adaeb1f2bea2b033e500d90516fe228550dd0846d9f6d69066b874d3c6df55"
+    },
+    "restore_system_dependencies.py": {
+      "bytes": 1230,
+      "sha256": "d49d5c721bbc72c801adaa952a7c3031dda24cd8aeb3c79cb776b6b0b902969d"
+    },
+    "setup_server.py": {
+      "bytes": 14205,
+      "sha256": "f8884b5dc38e52894c793c214e2a44900544da5b11ebe5ed486dbd8cbb1a9be5"
+    },
+    "show_result.py": {
+      "bytes": 3326,
+      "sha256": "af299c7271fce3462d0505282f523713ce5fddad4c84a4e82758fb2a6fd43f5a"
+    },
+    "train_experiment.sh": {
+      "bytes": 3369,
+      "sha256": "c818cec29351da17ce429ad56f0d6d5d3537a910ddf5b6385f9b1ad4e0ca5937"
+    },
+    "参考资料/任务二-赛题介绍.pdf": {
+      "bytes": 488607,
+      "sha256": "b1d336f4cd1bf7067ec3eeef46771f6e3eab89b622bf8b726d6c020fbfaf2ba6"
+    }
+  }
+}
